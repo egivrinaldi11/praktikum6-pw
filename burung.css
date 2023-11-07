@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    background-color: white;
+}
+blockquote{
+    text-align: center;
+    background-color: white;
+}
+body{
+    background-color: silver;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+.isi{
+    background-color: azure;
+    width: 95%;
+    border: 3px solid black;
+}
+#profil{
+    background-color: azure;
+    width: 95%;
+    border: 3px solid black;
+    margin: 20px;
+}
+#beternak{
+    background-color: azure;
+    width: 95%;
+    border: 3px solid black;
+    margin: 20px;
+}
+.koleksi{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+.promo{
+    color: black;
+    background-color: blanchedalmond;
+    border: 3px solid black;
+}
